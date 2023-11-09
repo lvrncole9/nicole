@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "daviddhc20120601 / LLM, AI, Medtech"
+locale                   : "Singapore"
+title                    : "liu nicole"
 title_separator          : "-"
 name                     : &name "liu nicole"
-description              : &description "personal description"
+description              : &description "personal portfolio"
 url                      : https://daviddhc20120601.github.io/academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "daviddhc20120601/academicpages.github.io"
