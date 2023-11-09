@@ -7,27 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-# Meet Your Sixth Grade Computer Teacher
-
-Hello, young tech enthusiasts! 👋
-
-![foo-bar-identity.jpg](https://daviddhc20120601.github.io/academicpages.github.io/images/foo-bar-identity.jpg)
-
-I'm thrilled to introduce your incredible Sixth Grade Computer Teacher, Mr. Daviddhc20120601! He's not just any teacher; he's a digital wizard who will guide you through the exciting world of computer science and technology.
-
-## About Mr. Daviddhc20120601
-
-👩‍🏫 **Name:** Mr. Daviddhc20120601
-
-🏫 **Grade:** Sixth Grade
-
-🖥️ **Subject:** Computer Science
-
-With a passion for all things tech and years of experience in making coding, programming, and digital creativity accessible to young minds, Mr. Daviddhc20120601 is here to make learning about computers a blast!
-
-## What to Expect
-
-In Mr. Daviddhc20120601's class, you'll embark on an epic journey into the realms of programming, web development, and all the fun aspects of technology. You'll get hands-on experience with computers, learn to code, and even create your own digital masterpieces. Mr. Daviddhc20120601's class is the gateway to a world of endless possibilities.
-
-So, get ready to explore, learn, and code your way to success under the expert guidance of Mr. Daviddhc20120601. Your computer adventure is about to begin!
-
+Hello! My name is Liu Nicole, and I am excited to introduce myself to you through this portfolio. I am a passionate and dedicated student and I am constantly seeking new opportunities to expand my skills and make a positive impact.
+I possess a creative mindset that enables me to think outside the box and come up with innovative solutions. I believe that creativity is a vital aspect of being a student, and it allows me to approach projects from unique angles.
+Looking ahead, I am excited about the possibilities that lie before me. I am committed to further developing my skills and expertise to take on more challenging roles and make a lasting impact in my studies
+Thank you for taking the time to learn more about me. I invite you to explore my portfolio to gain a deeper understanding of my work and accomplishments. I am always open to new opportunities, collaborations, and discussions, so please feel free to reach out.
